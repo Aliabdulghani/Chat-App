@@ -59,5 +59,6 @@
     "Account Status": "Account Status",
     "Show online only": "Show online only",
     "Type a message...": "Type a message...",
+    "Loading profile..." : "Loading profile...",
     "getOnlineUsers": "getOnlineUsers"
 }

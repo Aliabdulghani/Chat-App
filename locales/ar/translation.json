@@ -59,5 +59,6 @@
     "Account Status": "حالة الحساب",
     "Show online only": "إظهار المتصلين فقط",
     "Type a message...": "اكتب رسالة...",
+    "Loading profile..." : "تحميل الملف الشخصي...",
     "getOnlineUsers": "جلب المستخدمين المتصلين"
 }
