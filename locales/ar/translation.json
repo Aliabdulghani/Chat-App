@@ -60,5 +60,18 @@
     "Show online only": "إظهار المتصلين فقط",
     "Type a message...": "اكتب رسالة...",
     "Loading profile..." : "تحميل الملف الشخصي...",
+    "Update Name Failed": "فشل تعديل الاسم",
+    "Account Created Successfully": "تم انشاء الحساب بنجاح",
+    "Signup Failed": "فشل تسجيل الدخول",
+    "Logged in Successfully": "تسجيل الدخول بنجاح",
+    "Login Failed": "فشل تسجيل الدخول",
+    "Logout Failed": "فشل تسجيل الخروج",
+    "Name Updated Successfully!": "تم تعديل الاسم بنجاح",
+    "Logged Out Successfully": "تسجيل الخروج بنجاح",
+    "Something Went Wrong!": "حدث خطأ ما!",
+    "Profile Picture Updated!": "تم تعديل صورة الملف الشخصي بنجاح",
+    "Image Updated Successfully": "تم تعديل الصورة بنجاح",
+    "Failed To Upload Profile Picture.": "فشل تحميل صورة الملف الشخصي.",
+    "Update Image Failed": "فشل تعديل الصورة",
     "getOnlineUsers": "جلب المستخدمين المتصلين"
 }
