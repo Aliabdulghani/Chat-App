@@ -73,5 +73,8 @@
     "Image Updated Successfully": "تم تعديل الصورة بنجاح",
     "Failed To Upload Profile Picture.": "فشل تحميل صورة الملف الشخصي.",
     "Update Image Failed": "فشل تعديل الصورة",
+    "Preview": "معاينة",
+    "Hey! How's it going?": "مرحبا! كيف حالك؟",
+    "I'm doing great! Just working on some new features.": "جيدة! فقط يعمل على بعض الميزات الجديدة.",
     "getOnlineUsers": "جلب المستخدمين المتصلين"
 }
